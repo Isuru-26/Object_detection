@@ -35,3 +35,13 @@ Safety monitoring in restricted zones
 
 Blind-spot warning systems
 
+# 🔮 Future Improvements
+
+Add WiFi + Web Dashboard for remote monitoring
+
+Integrate with mobile app notifications 📱
+
+Replace dot board with a custom PCB design
+
+Add multiple sensors for 360° obstacle detection
+
