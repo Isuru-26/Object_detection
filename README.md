@@ -12,3 +12,5 @@ Alert mode when distance ≤ 50 cm → buzzer + LED ON for 5s
 Safe mode when distance > 50 cm → display shows "Safe"
 
 Fully soldered on dot board for durability and compactness
+
+![Uploading WhatsApp Image 2025-09-20 at 00.53.48_1f8342ff.jpg…]()
